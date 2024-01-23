@@ -1,0 +1,11 @@
+<html>
+	<head>
+	<title><strong>NBA Drug Policy Violated</strong></title>
+	<body>
+	<h1>Tristen Thompson Suspended</h1>
+	<p>Tristen Thompson, on the Cleavland Cavaliers, is suspended for 25 games for testing positive for performance hancing drug.</h1>
+	img scr="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2024-01/240123-Tristan-Thompson-al-1246-6377ba.jpg" alt="Tristan Thompson">
+	<p>Read More Here</p>
+	<a href="https://www.nbcnews.com/news/us-news/tristan-thompson-suspended-25-games-violating-nba-drug-policy-rcna135298"><em>link to article</em></a>
+	</body>
+</html>
