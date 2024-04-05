@@ -1,16 +1,38 @@
-:root {
+:root 
+{
 background-color: rgb(121, 201, 255);
-font-family: Garamond
 color: white
 }
-img elements: 
-border-radius:
-h1 {
-  color: black;
-  font-size: 16px;
+.title
+{
+  color: white;
+  font-size: 50pt;
+  text-decoration: underline;
+  text-align: center;
+  font-family: Garamond;
 }
-table: inset; 
-color: red;
-a: link {
-  color: rgb(0, 77, 118);
+ul
+{
+    text-align: center;
+}
+  li
+{
+    display: inline;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+  img
+  {
+    margin: auto;
+    display: block;
+  } 
+section :hover
+{
+    background-color: rgb(0, 77, 118);
+}
+.footnote
+  {
+    font-style: italic;
+    text-align: center;
+    margin-top: 100px;
 }
