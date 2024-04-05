@@ -3,13 +3,12 @@
 background-color: rgb(121, 201, 255);
 color: white
 }
-.title
+ .title
 {
   color: white;
   font-size: 50pt;
   text-decoration: underline;
   text-align: center;
-  font-family: Garamond;
 }
 ul
 {
