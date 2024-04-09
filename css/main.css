@@ -1,12 +1,12 @@
 :root 
 {
 background-color: rgb(121, 201, 255);
-color: white
+color: white;
 font-family: garamond
 }
  .title
 {
-  color: white;
+  color: rgb(255, 158, 209);
   font-size: 50pt;
   text-decoration: underline;
   text-align: center;
