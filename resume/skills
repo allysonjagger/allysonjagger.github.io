@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>TEMPLATE</title>
+    <link rel="stylesheet" href="https://allysonjagger.github.io/css/style.css">
+  </head>
+  <body>
+    <H1>Resume</H1>
+    <nav>
+    <ul>
+        <li><a href=index.html#contactinfo>Contat Info</a></li>
+        <li><a href=index.html#education>Education</a></li>
+        <li><a href=index.html#expereice>Expereince</a></li>
+        <li> <a href=skills.html#skills>Skills</a></li>
+      </ul>
+    </nav>
+    <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+    <li>Accontable for projects and specific duies.</li>
+    <li>Motivate to inspire others.</li>
+    <li>Concise communication.</li>
+    </ul>
+    </section>
+  </body>
+</html>
