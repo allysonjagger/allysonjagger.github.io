@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>TEMPLATE</title>
+    <title>Resume</title>
     <link rel="stylesheet" href="https://allysonjagger.github.io/css/style.css">
   </head>
   <body>
-    <H1>Resume</H1>
-    <nav>
+<nav>
+    <h1>Wendy Pleakly</h1>
     <ul>
         <li><a href=index.html#contactinfo>Contat Info</a></li>
         <li><a href=index.html#education>Education</a></li>
