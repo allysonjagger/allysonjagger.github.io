@@ -16,7 +16,6 @@ body
 h1
 {
     font-size: calc(12pt + 4vw);
-    font-color: rgb(255, 108, 162);
 }
 nav
 {
