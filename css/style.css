@@ -6,11 +6,11 @@
 }
 body
 {
-    background-color: rgb(255, 108, 162);
+    background-color: white;
 }
 *
 {
-    color: white;
+    color:  rgb(255, 108, 162);
     text-align: center;
 }
 h1
